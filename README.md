@@ -53,25 +53,19 @@ To run the script automatically at any period:
 
 ### 4. Slack API Permissions
 
-####Ensure your Slack app has the following permissions:
+**Ensure your Slack app has the following permissions:**
  
 channels:read
-View basic information about public channels in a workspace
 
 chat:write
-Send messages as @Slack_Report
 
 files:read
-View files shared in channels and conversations that Slack_App has been added to
 
 files:write
-Upload, edit, and delete files as Slack_App
 
 groups:read
-View basic information about private channels that Slack_Report has been added to
 
 remote_files:write
-Add, edit, and delete remote files on a user’s behalf
 
 ## How It Works
 
